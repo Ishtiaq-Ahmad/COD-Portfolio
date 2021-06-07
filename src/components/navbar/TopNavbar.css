@@ -1,0 +1,48 @@
+.top-nav{
+    background-color: whitesmoke;
+}
+.hire-button{
+    /* background-color: hsl(239, 44%, 54%) !important;
+ 
+    background-repeat: repeat-x;
+     
+    background-image: -o-linear-gradient(top, #0057ED, #7546c2);
+     
+    background-image: linear-gradient(#0057ED, #7353c4);
+     
+    border-color: #845BEE #845BEE rgb(117, 36, 163);
+     
+    color: #fff !important; */
+     
+    /* text-shadow: 0 -1px 0 g#00AEF5(0, 0, 0, 0.62); */
+    
+}
+
+.social-btn:hover{
+    color:#0057ED;
+}
+
+.hire-button {background-image: linear-gradient(to right,#00B4F5 0%, #0057ED, #7353c4  45%, #0057ED  100%)}
+.hire-button {
+   /* margin: 10px; */
+   /* padding: 15px 45px; */
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 5px;
+   display: block;
+   padding: 2px 15px 2px 15px;
+    margin-top: -3px;
+    border: none;
+ }
+
+ .hire-button:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+
